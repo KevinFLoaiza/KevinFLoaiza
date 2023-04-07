@@ -54,7 +54,7 @@ I hope to be able to present to you a visual colorful presentation of my digital
 I used to volunteer a lot at my middle school and elementary school. I was a teacher's assistant and I found it pleasant teaching others. I mainly worked with students who were in the process of learning English and would grade their work or help translate writings. I still keep in contact with some of the teachers and it has been fulfilling even going back and seeing familiar faces.
 
 <img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
-
+<br/>
 In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
 
 ---
