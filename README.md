@@ -44,3 +44,5 @@ I hope to be able to present to you a visual colorful presentation of my digital
 <br />
 
 #
+
+### 📘 <a href="https://drive.google.com/file/d/14LcrJ3AD-R8ViokjhM0hovDvSDvT0zTC/view?usp=sharing">Resume</a>
