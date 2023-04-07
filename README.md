@@ -55,6 +55,8 @@ I used to volunteer a lot at my middle school and elementary school. I was a tea
 
 <img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
 
+In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
+
 ---
 
 ### 🚀 Projects
