@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 My name is Kevin Loaiza, I am the first generation in my family line to be able to go to university. I come from a long line of farmers and it has been a great blessing in order to be able to get an education. I am originally from Las Vegas, Nevada and moved to Colorado about 18 years ago, but I still go back to visit family. Regardless, I have come to love Colorado and it's way more comfortable to be outside!
 I hope to be able to present to you a visual colorful presentation of my digital portfolio so that you get a better understanding of who I am. Along with it will be a list of projects that I am proud of and enjoyed working on over the years while attending the university. Paired with my project will be programs that I have used and I am comfortable utilizing. There will also be a pdf of my resume and links to my social media platforms that give a better perspective of who I am in a public space. 
 
-#
-
 ---
 
 ### 🧰 Languages and Tools
