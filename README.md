@@ -65,9 +65,20 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🚀 Projects
 
+An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
+
+
+
 ---
 
 ### 🧶 Social Media
+
+<a href="https://www.linkedin.com/in/kevin-loaiza-andrade-786b15187">LinkedIn</a>
+This is a professional site that contains my resume, classes, and a better presentation of who I am as a person. 
+<a href="https://boulder.joinhandshake.com/stu/users/18786350">HandShake</a>
+For those who are looking for more in depth-information about me while I have been at the University and is a good way to reach me. 
+<a href="https://twitter.com/kevin_andrade_L">Twitter</a>
+A fun zone where I will be posting things relating to the computer science industry and anything that I find cool in technology. 
 
 ---
 
