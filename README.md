@@ -57,6 +57,10 @@ I used to volunteer a lot at my middle school and elementary school. I was a tea
 <br clear="left"/>
 In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
 
+<img align="left" alt="PC" width="360px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
+<br clear="left"/>
+As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
+
 ---
 
 ### 🚀 Projects
