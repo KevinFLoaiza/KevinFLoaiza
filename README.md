@@ -89,11 +89,11 @@ A academic project that was completed during my senior year for my capstone invo
 
 Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. This project completed in a team setting of 4 people. My job was to mainly work on the front-end of project which involved creating a website for our bot and making AJAX calls to pull images of the cards one could collect. 
 <br clear="left"/>
-<a href = "https://github.com/CSCI-3308-CU-Boulder/3308SP21_015_9.git](https://gitfront.io/r/user-3239685/Cz68dZnQ7Bp4/3308SP21-015-9/">Discord Bot Github Repo</a>
+<a href = "https://gitfront.io/r/user-3239685/Cz68dZnQ7Bp4/3308SP21-015-9/">Discord Bot Github Repo</a>
 
 Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake. Each players takes turn rolling a die until they reach the final tile.
 <br clear="left"/>
-<a href = "https://github.com/KevinFLoaiza/ChutesAndLadders.git](https://gitfront.io/r/user-3239685/yoeSH5oZi256/ChutesAndLadders/)https://gitfront.io/r/user-3239685/yoeSH5oZi256/ChutesAndLadders/">Snakes and Ladders Project Repo</a>
+<a href = "https://gitfront.io/r/user-3239685/yoeSH5oZi256/ChutesAndLadders/">Snakes and Ladders Project Repo</a>
 
 ---
 
