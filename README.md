@@ -57,7 +57,7 @@ I working on making my own VPN.
 
 ---
 
-### 📘 <a href="https://drive.google.com/file/d/16IVMHoCLf19Gt9c7vqBtkLfVjJB34vXI/view?usp=sharing">Resume</a>
+### 📘 <a href="https://drive.google.com/file/d/1cQcda-eYUaVrYCh-Q-Z8ildWhOd_sfbL/view?usp=sharing">Resume</a>
 
 ---
 
