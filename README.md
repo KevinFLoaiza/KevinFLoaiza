@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kevin Loaiza
-
-**`Major: BS Computer Science`**
+**`Major: Bachelors of Science in Computer Science`**
+**`School: University of Colorado at Boulder`**
+**`Graduated: May 2023`**
 
 ---
 ### 💬 About Me:
@@ -73,14 +74,6 @@ An academic project that is still a work in progress and is still being done thi
 Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
 
 Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
-
----
-
-### 🧶 Social Media
-
-<a href="https://www.linkedin.com/in/kevin-loaiza-andrade-786b15187">LinkedIn</a>
-
-This is a professional site that contains my resume, classes, and a better presentation of who I am as a person. 
 
 ---
 
