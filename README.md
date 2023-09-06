@@ -71,7 +71,7 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🚀 Projects
 
-<img align="left" alt="solarPicture" width="280px" style="padding-right:10px;"
+<img align="left" alt="solarPicture" width="500px" style="padding-right:10px;"
 src="Screenshot 2023-05-29 at 2.10.28 PM.png"/>
 <br clear="left"/>
 A academic project that was completed during my senior year for my capstone involved working with NASA and JPL. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. I mainly worked with SPICE which helped extract data from kernels and assisted in the creation of the API that would do the calculations of the spacecraft and planets. 
