@@ -33,7 +33,7 @@ I hope to be able to present to you a visual colorful presentation of my digital
 ---
 ### 🔭 Project in Progress:
 
-I working on making my own VPN. 
+I am working on making my own VPN. 
 
 ---
 
