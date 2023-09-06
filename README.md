@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 # Kevin Loaiza
 **`Major: Bachelors of Science in Computer Science`**
+<br clear="left"/>
 **`School: University of Colorado at Boulder`**
+<br clear="left"/>
 **`Graduated: May 2023`**
 
 ---
@@ -26,7 +28,7 @@ I hope to be able to present to you a visual colorful presentation of my digital
 ---
 ### 🔭 Studying:
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux and Operating Systems
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <a>Linux and Operating Systems</a>
 ---
 
 ### 🧰 Languages and Tools
@@ -69,11 +71,23 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🚀 Projects
 
-An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
+<img align="left" alt="solarPicture" width="280px" style="padding-right:10px;"
+src="https://drive.google.com/file/d/1aLrh0jv4R6bdrH3FbzKoDPi5tURswOdo/view?usp=sharing"/>
+<br clear="left"/>
+A academic project that was completed during my senior year for my capstone involved working with NASA and JPL. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. I mainly worked with SPICE which helped extract data from kernels and assisted in the creation of the API that would do the calculations of the spacecraft and planets. 
+<br clear="left"/>
+<a href = "https://github.com/alberttmy1/NASA-JPL.git">Front-End Github Repo</a>
+<br clear="left"/>
+<a href = "https://github.com/makwayne117/spice-api.git">Back-End Github Repo</a>
 
-Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
 
-Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
+Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. This project completed in a team setting of 4 people. My job was to mainly work on the front-end of project which involved creating a website for our bot and making AJAX calls to pull images of the cards one could collect. 
+<br clear="left"/>
+<a href = "https://github.com/CSCI-3308-CU-Boulder/3308SP21_015_9.git">Discord Bot Github Repo</a>
+
+Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake. Each players takes turn rolling a die until they reach the final tile.
+<br clear="left"/>
+<a href = "https://github.com/KevinFLoaiza/ChutesAndLadders.git">Snakes and Ladders Project Repo</a>
 
 ---
 
