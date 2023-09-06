@@ -26,9 +26,15 @@ My name is Kevin Loaiza, I am the first generation in my family line to be able 
 I hope to be able to present to you a visual colorful presentation of my digital portfolio so that you get a better understanding of who I am. Along with it will be a list of projects that I am proud of and enjoyed working on over the years while attending the university. Paired with my project will be programs that I have used and I am comfortable utilizing. There will also be a pdf of my resume and links to my social media platforms that give a better perspective of who I am in a public space. 
 
 ---
-### 🔭 Studying:
+### 🌱 Studying:
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <a>Linux and Operating Systems</a>
+
+---
+### 🔭 Project in Progress:
+
+I working on making my own VPN. 
+
 ---
 
 ### 🧰 Languages and Tools
