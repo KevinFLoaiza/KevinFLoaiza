@@ -28,12 +28,7 @@ I hope to be able to present to you a visual colorful presentation of my digital
 ---
 ### 🌱 Studying:
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <a>Linux and Operating Systems</a>
-
----
-### 🔭 Project in Progress:
-
-I am working on making my own VPN. 
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <a>Linux and AWS</a>
 
 ---
 
