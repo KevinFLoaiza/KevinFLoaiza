@@ -52,7 +52,7 @@ I hope to be able to present to you a visual colorful presentation of my digital
 
 ---
 
-### 📘 <a href="https://drive.google.com/file/d/1cQcda-eYUaVrYCh-Q-Z8ildWhOd_sfbL/view?usp=sharing">Resume</a>
+### 📘 <a href="https://drive.google.com/file/d/1ANJ4l62znObVJLhWvDkTS_C6--vCuSaj/view?usp=share_link">Resume</a>
 
 ---
 
